@@ -1,0 +1,15 @@
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\bin\Debug\net10.0\LogicExercise2.exe
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\bin\Debug\net10.0\LogicExercise2.deps.json
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\bin\Debug\net10.0\LogicExercise2.runtimeconfig.json
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\bin\Debug\net10.0\LogicExercise2.dll
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\bin\Debug\net10.0\LogicExercise2.pdb
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.AssemblyInfoInputs.cache
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.AssemblyInfo.cs
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.sourcelink.json
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.dll
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\refint\LogicExercise2.dll
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.pdb
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\LogicExercise2.genruntimeconfig.cache
+C:\Users\Abel Agustian\Documents\Bootcamp\LogicExercise2\obj\Debug\net10.0\ref\LogicExercise2.dll
