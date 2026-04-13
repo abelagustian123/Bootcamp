@@ -6,9 +6,10 @@ if (!int.TryParse(inputNumber, out int number))
     System.Console.WriteLine("input harus angka");
 else
 {
+    StringBuilder s = new StringBuilder();
     for(int i = 1; i <= number; i++)
     {
-        StringBuilder? s = new StringBuilder();
+        s.Clear();
         if(i % 3 == 0)
             s.Append("foo");
         if(i % 4 == 0)
