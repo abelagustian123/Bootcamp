@@ -2,8 +2,8 @@
 
 string inputNumber = Console.ReadLine();
 
-if (!int.TryParse(inputNumber, out int number))
-    System.Console.WriteLine("input harus angka");
+if ((!int.TryParse(inputNumber, out int number)) || number <= 0)
+    System.Console.WriteLine("Input tidak valid. Silakan input angka 1 atau lebih besar.");
 else
 {
     StringBuilder s = new StringBuilder();
